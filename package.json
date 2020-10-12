@@ -1,0 +1,16 @@
+{
+  "name": "yernende-discord-bot",
+  "version": "0.0.0",
+  "description": "Yernende's discord bot",
+  "main": "index.mjs",
+  "dependencies": {
+    "chance": "^1.1.6",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yernende",
+  "license": "MIT"
+}
